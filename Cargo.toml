@@ -1,0 +1,6 @@
+[package]
+name = "zli_webassenbly"
+version = "0.1.0"
+authors = ["nozomi0966 <nozomotoitech@gmail.com>"]
+
+[dependencies]
